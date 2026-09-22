@@ -1,0 +1,8 @@
+# Código JavaScript
+*.js @luiscantu
+
+# Archivos de seguridad
+SECURITY.md @security-team
+
+# Configuración
+/config/ @security-owner
