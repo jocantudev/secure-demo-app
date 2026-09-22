@@ -1,0 +1,24 @@
+# Variables de entorno
+.env
+.env.*
+
+# Dependencias
+node_modules/
+
+# Archivos de compilación
+dist/
+build/
+
+# Logs
+*.log
+
+# Configuración local
+config/local.json
+
+# Archivos del IDE
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
